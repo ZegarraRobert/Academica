@@ -10,6 +10,7 @@ function Menu() {
                     <Nav.Link as={Link} to='/AlumnosAxios'>Alumnos (Axios)</Nav.Link>
                     <Nav.Link as={Link} to='/AlumnosAlova'>Alumnos (Alova)</Nav.Link>
                     <Nav.Link as={Link} to='/Cursos'>Consulta de Cursos</Nav.Link>
+                    <Nav.Link as={Link} to='/Matriculas'>Matriculas</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>

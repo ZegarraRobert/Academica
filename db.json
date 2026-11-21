@@ -8,5 +8,10 @@
     { "id": 1, "codigo": "JSA101", "nombre": "JavaScript Avanzado", "creditos": 4 },
     { "id": 2, "codigo": "IHM201", "nombre": "Interaccion Hombre-Maquina", "creditos": 3 },
     { "id": 3, "codigo": "GTI301", "nombre": "Gestion del Servicio de TI", "creditos": 3 }
-  ]
+  ],
+  "matriculas": [
+  { "id": 1, "alumnoId": "1", "cursoId": "1" },
+  { "id": 2, "alumnoId": "2", "cursoId": "2" },
+  { "id": 3, "alumnoId": "3", "cursoId": "3" }
+]
 }
