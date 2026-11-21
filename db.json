@@ -1,7 +1,7 @@
 {
   "alumnos": [
     { "id": 1, "codigo": "U20250001", "nombres": "Ana Perez", "correo": "ana@utp.edu.pe", "carrera": "Ingenieria de Sistemas" },
-    { "id": 2, "codigo": "U20250002", "nombres": "Luis Torres", "correo": "luis@utp.edu.pe", "carrera": "Ingenieria Industrial" },
+    { "id": 2, "codigo": "U20250002", "nombres": "Sefue Torres", "correo": "sefue@utp.edu.pe", "carrera": "Ingenieria Industrial" },
     { "id": 3, "codigo": "U20250003", "nombres": "Maria Flores", "correo": "maria@utp.edu.pe", "carrera": "Administracion" }
   ],
   "cursos": [
