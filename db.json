@@ -1,8 +1,8 @@
 {
   "alumnos": [
-    { "id": 1, "codigo": "U20250001", "nombres": "Ana Perez", "correo": "ana@utp.edu.pe", "carrera": "Ingenieria de Sistemas" },
-    { "id": 2, "codigo": "U20250002", "nombres": "Sefue Torres", "correo": "sefue@utp.edu.pe", "carrera": "Ingenieria Industrial" },
-    { "id": 3, "codigo": "U20250003", "nombres": "Maria Flores", "correo": "maria@utp.edu.pe", "carrera": "Administracion" }
+    { "id": 1, "codigo": "U20250001", "nombres": "Eva Perez", "correo": "ana@utp.edu.pe", "carrera": "Ingenieria de Sistemas" },
+    { "id": 3, "codigo": "U20250003", "nombres": "Maria Flores", "correo": "maria@utp.edu.pe", "carrera": "Administracion" },
+    { "id": 2, "codigo": "U20250002", "nombres": "Sefue Torres", "correo": "sefue@utp.edu.pe", "carrera": "Ingenieria Industrial" }
   ],
   "cursos": [
     { "id": 1, "codigo": "JSA101", "nombre": "JavaScript Avanzado", "creditos": 4 },
